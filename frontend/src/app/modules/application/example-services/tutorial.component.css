@@ -1,0 +1,4 @@
+tr.selected td {
+  font-weight: bold;
+  background-color: yellow;
+}
